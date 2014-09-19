@@ -3,8 +3,5 @@
    <feature url="io.takari.m2e.team.feature_0.0.0.qualifier.jar" id="io.takari.m2e.team.feature" version="0.0.0">
       <category name="io.takari.m2e.team"/>
    </feature>
-   <feature url="io.takari.m2e.team.legacy.feature_0.0.0.qualifier.jar" id="io.takari.m2e.team.legacy.feature" version="0.0.0">
-      <category name="io.takari.m2e.team"/>
-   </feature>
    <category-def name="io.takari.m2e.team" label="Takari TEAM"/>
 </site>

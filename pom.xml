@@ -68,7 +68,6 @@
 
   <modules>
     <module>io.takari.m2e.team.feature</module>
-    <module>io.takari.m2e.team.legacy.feature</module>
     <module>io.takari.m2e.team.repository</module>
   </modules>
 
