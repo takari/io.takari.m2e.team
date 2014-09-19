@@ -31,7 +31,7 @@
     <repository>
       <id>tycho</id>
       <layout>p2</layout>
-      <url>http://repository.takari.io:8081/nexus/content/sites/m2e.extras/m2eclipse-tycho/0.7.0/N/LATEST</url>
+      <url>http://repository.takari.io:8081/nexus/content/sites/m2e.extras/m2eclipse-tycho/0.8.0/N/LATEST</url>
     </repository>
     <repository>
       <id>sourcelookup</id>
