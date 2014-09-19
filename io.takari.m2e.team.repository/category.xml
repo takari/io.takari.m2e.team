@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="io.takari.m2e.lifecycle.feature_0.0.0.qualifier.jar" id="io.takari.m2e.lifecycle.feature" version="0.0.0">
+   <feature url="io.takari.m2e.team.feature_0.0.0.qualifier.jar" id="io.takari.m2e.team.feature" version="0.0.0">
       <category name="io.takari.m2e.team"/>
    </feature>
    <feature url="io.takari.m2e.team.legacy.feature_0.0.0.qualifier.jar" id="io.takari.m2e.team.legacy.feature" version="0.0.0">
