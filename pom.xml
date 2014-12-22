@@ -32,7 +32,7 @@
     <repository>
       <id>tycho</id>
       <layout>p2</layout>
-      <url>${m2e-extras.url}/m2eclipse-tycho/0.8.0/N/LATEST</url>
+      <url>${m2e-extras.url}/m2eclipse-tycho/0.9.0/N/LATEST</url>
     </repository>
     <repository>
       <id>sourcelookup</id>
