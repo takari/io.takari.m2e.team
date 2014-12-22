@@ -15,53 +15,54 @@
 
   <properties>
     <repositoryPathId>takari-team</repositoryPathId>
+    <m2e-extras.url>https://repository.takari.io/content/sites/m2e.extras</m2e-extras.url>
   </properties>
 
   <repositories>
     <repository>
       <id>takari-stats</id>
       <layout>p2</layout>
-      <url>http://repository.takari.io:8081/nexus/content/sites/m2e.extras/takari-stats-m2e/0.1.0/N/LATEST</url>
+      <url>${m2e-extras.url}/takari-stats-m2e/0.1.0/N/LATEST</url>
     </repository>
     <repository>
       <id>takari-lifecycle</id>
       <layout>p2</layout>
-      <url>http://repository.takari.io:8081/nexus/content/sites/m2e.extras/m2eclipse-takari-lifecycle/0.1.0/N/LATEST</url>
+      <url>${m2e-extras.url}/m2eclipse-takari-lifecycle/0.1.0/N/LATEST</url>
     </repository>
     <repository>
       <id>tycho</id>
       <layout>p2</layout>
-      <url>http://repository.takari.io:8081/nexus/content/sites/m2e.extras/m2eclipse-tycho/0.8.0/N/LATEST</url>
+      <url>${m2e-extras.url}/m2eclipse-tycho/0.8.0/N/LATEST</url>
     </repository>
     <repository>
       <id>sourcelookup</id>
       <layout>p2</layout>
-      <url>http://repository.takari.io:8081/nexus/content/sites/m2e.extras/sourcelookup/1.1.0/N/LATEST</url>
+      <url>${m2e-extras.url}/sourcelookup/1.1.0/N/LATEST</url>
     </repository>
     <repository>
       <id>maven-devtools</id>
       <layout>p2</layout>
-      <url>http://repository.takari.io:8081/nexus/content/sites/m2e.extras/mavendev/0.3.0/N/LATEST</url>
+      <url>${m2e-extras.url}/mavendev/0.3.0/N/LATEST</url>
     </repository>
     <repository>
       <id>modello</id>
       <layout>p2</layout>
-      <url>http://repository.takari.io:8081/nexus/content/sites/m2e.extras/m2eclipse-modello/0.16.0/N/LATEST</url>
+      <url>${m2e-extras.url}/m2eclipse-modello/0.16.0/N/LATEST</url>
     </repository>
     <repository>
       <id>plexus</id>
       <layout>p2</layout>
-      <url>http://repository.takari.io:8081/nexus/content/sites/m2e.extras/m2eclipse-plexus/0.15.0/N/LATEST</url>
+      <url>${m2e-extras.url}/m2eclipse-plexus/0.15.0/N/LATEST</url>
     </repository>
     <repository>
       <id>sisu</id>
       <layout>p2</layout>
-      <url>http://repository.takari.io:8081/nexus/content/sites/m2e.extras/m2eclipse-sisu/0.15.0/N/LATEST</url>
+      <url>${m2e-extras.url}/m2eclipse-sisu/0.15.0/N/LATEST</url>
     </repository>
     <repository>
       <id>mavenarchiver</id>
       <layout>p2</layout>
-      <url>http://repository.takari.io:8081/nexus/content/sites/m2e.extras/m2eclipse-mavenarchiver/0.16.0/N/LATEST</url>
+      <url>${m2e-extras.url}/m2eclipse-mavenarchiver/0.16.0/N/LATEST</url>
     </repository>
   </repositories>
 
