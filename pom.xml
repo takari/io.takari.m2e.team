@@ -64,6 +64,11 @@
       <layout>p2</layout>
       <url>${m2e-extras.url}/m2eclipse-mavenarchiver/0.16.0/N/LATEST</url>
     </repository>
+    <repository>
+      <id>modello-editor</id>
+      <layout>p2</layout>
+      <url>${m2e-extras.url}/modello-editor/0.1.0/N/LATEST</url>
+    </repository>
   </repositories>
 
 
