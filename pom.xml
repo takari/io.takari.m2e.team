@@ -16,6 +16,7 @@
   <properties>
     <repositoryPathId>takari-team</repositoryPathId>
     <m2e-extras.url>https://repository.takari.io/content/sites/m2e.extras</m2e-extras.url>
+    <m2e-core.url>${repoHost}/content/sites/m2e.extras/m2e/1.7.0/N/LATEST</m2e-core.url>
   </properties>
 
   <repositories>
