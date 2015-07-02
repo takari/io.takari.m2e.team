@@ -43,7 +43,7 @@
     <repository>
       <id>maven-devtools</id>
       <layout>p2</layout>
-      <url>${m2e-extras.url}/mavendev/0.3.0/N/LATEST</url>
+      <url>${m2e-extras.url}/mavendev/0.4.0/N/LATEST</url>
     </repository>
     <repository>
       <id>modello</id>
