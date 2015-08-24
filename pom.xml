@@ -63,7 +63,7 @@
     <repository>
       <id>mavenarchiver</id>
       <layout>p2</layout>
-      <url>${m2e-extras.url}/m2eclipse-mavenarchiver/0.16.0/N/LATEST</url>
+      <url>${m2e-extras.url}/m2eclipse-mavenarchiver/0.17.0/N/LATEST</url>
     </repository>
     <repository>
       <id>modello-editor</id>
