@@ -5,7 +5,7 @@
   <parent>
     <groupId>io.takari.tycho</groupId>
     <artifactId>tycho-support</artifactId>
-    <version>0.15.0</version>
+    <version>0.17.0</version>
   </parent>
 
   <groupId>io.takari.m2e</groupId>
@@ -38,7 +38,7 @@
     <repository>
       <id>sourcelookup</id>
       <layout>p2</layout>
-      <url>${m2e-extras.url}/sourcelookup/1.1.0/N/LATEST</url>
+      <url>${m2e-extras.url}/sourcelookup/1.2.0/N/LATEST</url>
     </repository>
     <repository>
       <id>maven-devtools</id>
