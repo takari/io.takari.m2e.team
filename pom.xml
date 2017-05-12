@@ -17,7 +17,7 @@
     <repositoryPathId>takari-team</repositoryPathId>
     <m2e-extras.url>https://repository.takari.io/content/sites/m2e.extras</m2e-extras.url>
     <m2e-core.url>${repoHost}/content/sites/m2e.extras/m2e/1.8.0/N/LATEST</m2e-core.url>
-    <eclipse-repo.url>http://download.eclipse.org/releases/neon</eclipse-repo.url>
+    <eclipse-repo.url>http://download.eclipse.org/releases/oxygen</eclipse-repo.url>
     <tychoVersion>1.0.0</tychoVersion>
   </properties>
 
