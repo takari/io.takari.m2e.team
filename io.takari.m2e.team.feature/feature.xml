@@ -49,10 +49,6 @@ Takari, Inc - initial API and implementation\n
          version="0.0.0"/>
 
    <includes
-         id="com.ifedorenko.m2e.sourcelookup.feature"
-         version="0.0.0"/>
-
-   <includes
          id="org.eclipse.m2e.feature"
          version="0.0.0"/>
 
